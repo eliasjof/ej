@@ -1,6 +1,6 @@
 ---
 title: "EPIIBOTS"
-date: "2020-04-12"
+date: "2024-04-12"
 coverImage: "epibots_logo_atual3.png"
 ---
 
