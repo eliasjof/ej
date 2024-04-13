@@ -1,12 +1,14 @@
 ---
 title: "ESP32 #02: Hello World"
-date: "2020-05-16"
-categories: 
-  - "esp32"
-  - "projensino-esp32"
+date: 2020-05-16
+categories:
+  - esp32
+  - projensino-esp32
+tags:
+  - esp32
 ---
 
-Inicie a programação do ESP32 com esse simples código no Visual Code:
+Inicie a programação do [[ESP32]] com esse simples código no Visual Code:
 
 ```cpp
 #include <Wire.h>

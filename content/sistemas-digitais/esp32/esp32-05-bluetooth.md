@@ -1,9 +1,11 @@
 ---
 title: "ESP32 #05 - Bluetooth"
-date: "2020-08-06"
-categories: 
-  - "esp32"
-  - "projensino-esp32"
+date: 2020-08-06
+categories:
+  - esp32
+  - projensino-esp32
+tags:
+  - esp32
 ---
 
 Como acionar um led via Bluetooth com o ESP32? Assista ao vídeo explicativo.

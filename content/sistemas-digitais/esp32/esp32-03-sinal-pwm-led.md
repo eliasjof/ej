@@ -1,9 +1,11 @@
 ---
 title: "ESP32 #03 - Sinal PWM + LED"
-date: "2020-06-02"
-categories: 
-  - "esp32"
-  - "projensino-esp32"
+date: 2020-06-02
+categories:
+  - esp32
+  - projensino-esp32
+tags:
+  - esp32
 ---
 
 Confira como acionar um led utilizando um sinal PWM no vídeo abaixo:

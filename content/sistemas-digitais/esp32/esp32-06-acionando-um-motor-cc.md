@@ -1,9 +1,11 @@
 ---
 title: "ESP32 #06 - Acionando um motor CC"
-date: "2020-08-06"
-categories: 
-  - "esp32"
-  - "projensino-esp32"
+date: 2020-08-06
+categories:
+  - esp32
+  - projensino-esp32
+tags:
+  - esp32
 ---
 
 https://www.youtube.com/watch?v=34fM0k6qIEU

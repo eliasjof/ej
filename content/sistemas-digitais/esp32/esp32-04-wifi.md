@@ -1,9 +1,11 @@
 ---
 title: "ESP32 #04 - Wifi"
-date: "2020-06-09"
-categories: 
-  - "esp32"
-  - "projensino-esp32"
+date: 2020-06-09
+categories:
+  - esp32
+  - projensino-esp32
+tags:
+  - esp32
 ---
 
 Assista ao vídeo e veja como modificar o estado de um led conectado ao ESP32 por meio da conexão Wifi.
