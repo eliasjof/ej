@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=bsLI31VnDQU
 
 - Filipe Vieira Brison. [Protótipo Huet: automação residencial utilizando Libras](https://ej-ensino.com.br/wp-content/uploads/2023/09/TCC_filipe-final.pdf). 2023. Trabalho de Conclusão de Curso. (Graduação em Engenharia Elétrica) - Instituto Federal Minas Gerais. Orientador: Elias José de Rezende Freitas.
 
-![](image-1.png)
+![](image-filipe.png)
 
 ## 2022
 

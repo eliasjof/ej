@@ -55,4 +55,4 @@ bode(H);
 
 [http://tinyurl.com/y3dbwvmo](http://tinyurl.com/y3dbwvmo)
 
-![](images/image-1.png)
+![](image-1.png)

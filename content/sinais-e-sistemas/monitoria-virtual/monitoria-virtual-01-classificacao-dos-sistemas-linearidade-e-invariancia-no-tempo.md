@@ -10,7 +10,7 @@ Lathi, B. P.. Sinais e Sistemas Lineares. 2 ed. Editora Bookman, 2007
 
 produzido por: Lorena Araújo dos Santos
 
-![](images/image-1.png)
+![](image-1.png)
 
 ![](images/image-2.png)
 
