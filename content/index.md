@@ -5,7 +5,7 @@ draft: false
 
 **MENU**
 
-1) [[Conteúdos|Conteúdos]]
+1) [[content|Conteúdo]]
 2) [[orientacoes|Orientações]]
 3) [[publicacoes|Publicações]]
 4) [[sobre]]

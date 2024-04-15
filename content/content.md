@@ -1,7 +1,10 @@
 ---
-tags: MOCs
+tags:
+  - MOCs
+title: Conteúdo
 ---
-# Robótica
+
+## Robótica
 
 | Post                                        | link                                                                                                               |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -11,7 +14,7 @@ tags: MOCs
 | Robótica Móvel #03 - "Hello World" no ROS   | [robotica-movel-03-hello-world-no-ros](robotica-movel-03-hello-world-no-ros.md) |
 | ESP32 #07 - Conexão ROS + ESP32             | [robotica-movel-04-conexao-ros-esp32](robotica-movel-04-conexao-ros-esp32.md)   |
 
-# Sinais e sistemas
+## Sinais e sistemas
 
 | Post                                                                                             | link                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +42,7 @@ tags: MOCs
 | Sinais e Sistemas #08: Como obter a FFT (Fast Fourier Transform) no Octave                       | [sinais-e-sistemas-08-como-obter-a-fft-fast-fourier-transform-no-octave](sinais-e-sistemas-08-como-obter-a-fft-fast-fourier-transform-no-octave.md)                                                             |
 | Sinais e Sistemas #09: Energia e Potência de um sinal discreto                                   | [sinais-e-sistemas-09-energia-e-potencia-de-um-sinal-discreto](sinais-e-sistemas-09-energia-e-potencia-de-um-sinal-discreto.md)                                                                                 |
 | Sinais e Sistemas #10: Dados para análise de distorção harmônica                                 | [sinais-e-sistemas-10-dados-para-analise-de-distorcao-harmonica](sinais-e-sistemas-10-dados-para-analise-de-distorcao-harmonica.md)                                                                             |
-# Sistemas Digitais
+## Sistemas Digitais
 
 
 
