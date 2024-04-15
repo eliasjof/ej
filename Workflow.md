@@ -16,5 +16,5 @@ git push
 ```
 - Atualizar quartz:
 ``` 
-
+npx quartz sync
 ```
