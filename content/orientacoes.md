@@ -10,7 +10,7 @@ draft: false
 
 - Kimberlly da Silva Neves. [Análise da sujidade no desempenho de módulos fotovoltaicos](https://ej-ensino.com.br/wp-content/uploads/2023/09/TCC_Kimberlly_Neves_final.pdf). 2023. Trabalho de Conclusão de Curso. (Graduação em Engenharia Elétrica) - Instituto Federal Minas Gerais. Orientador: Elias José de Rezende Freitas.
 
-![](image.png)
+![](image-kimberlly.png)
 
 - Leandro Henrique Vidigal Sousa. [Desenvolvimento de um veículo autônomo em escala reduzida](https://ej-ensino.com.br/wp-content/uploads/2023/09/TCC___IFMG_ITR_Trabalho___Desenvolvimento_de_um_robo_autonomo_de_Corrida.pdf). 2023. Trabalho de Conclusão de Curso. (Graduação em Engenharia Elétrica) - Instituto Federal Minas Gerais. Orientador: Elias José de Rezende Freitas.
 
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=bsLI31VnDQU
 
 - Leandro Ferreira Carneiro. [Desenvolvimento de um sistema para ajuste ideal do selim de bicicletas por meio de visão computacional.](https://ej-ensino.com.br/wp-content/uploads/2021/10/TCC_Leandro_Ferreira_IFMG_2021-versao-final.pdf) 2021. Trabalho de Conclusão de Curso. (Graduação em Engenharia Elétrica) - Instituto Federal Minas Gerais. Orientador: Elias José de Rezende Freitas. Coorientadora: Jaqueline de Oliveira Santana.
 
-![](image.png)
+![](image-kimberlly.png)
 
 - Patrick Aquer Trajano. [Protótipo de prótese controlada por meio de sinais mioelétricos](https://www.monografias.ufop.br/handle/35400000/3172). 2021. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Ouro Preto. Orientador: Elias José de Rezende Freitas. Coorientadora: Adrielle de Carvalho Santana.
 
@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=R-XH1ey7o0A
 
 - Layza Maria Vimieiro Marques de Lima. [Ferramenta de análise para alocação de geração própria de energia elétrica para unidades consumidoras no mercado livre](https://ej-ensino.com.br/wp-content/uploads/2020/09/Ferramenta_para_Analise_da_Alocacao_de_Geracao_Propria_TCC_Layza_final.pdf). 2020. Trabalho de Conclusão de Curso. (Graduação em Engenharia Elétrica) - Instituto Federal Minas Gerais. Orientador: Elias José de Rezende Freitas.
 
-![](image.png)
+![](image-kimberlly.png)
 
 ### 2019
 

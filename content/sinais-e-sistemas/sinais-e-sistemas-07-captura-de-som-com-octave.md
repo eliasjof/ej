@@ -11,7 +11,7 @@ O Octave possui um módulo embutido que é dedicado para a aquisição de som. A
 
 Com essas funções é possível criar aplicações no Octave para processamento de áudio. Veja um dado obtido:
 
-![](images/image.png)
+![](image.png)
 
 ## 2 - Código
 

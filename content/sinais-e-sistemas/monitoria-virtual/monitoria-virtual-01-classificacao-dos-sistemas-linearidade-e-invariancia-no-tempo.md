@@ -14,7 +14,7 @@ produzido por: Lorena Araújo dos Santos
 
 ![](images/image-2.png)
 
-![](images/image.png)
+![](image.png)
 
 ![](image-3-1024x706.png)
 

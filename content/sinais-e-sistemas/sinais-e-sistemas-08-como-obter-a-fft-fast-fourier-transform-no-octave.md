@@ -110,7 +110,7 @@ figure
 axis([0 500 0 max(abs(X))])
 ```
 
-![](images/image.png)
+![](image.png)
 
 ### 3.2 - Sinal aperiódico
 
