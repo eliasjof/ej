@@ -1,5 +1,5 @@
 ---
-title: "Informações e soluções de problemas"
+title: "Solutions for Ubuntu problems"
 date: "2022-10-17"
 ---
 
