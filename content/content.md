@@ -2,6 +2,7 @@
 tags:
   - MOCs
 title: Conteúdo
+share: true
 ---
 
 ## [[public/robotics/robotics|Robótica]]
