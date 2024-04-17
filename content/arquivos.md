@@ -1,5 +1,6 @@
 ---
 title: Arquivos e modelos
+share: true
 ---
 
 - Modelo LaTeX para Trabalhos de Conclusão de Curso do Instituto Federal de Minas Gerais (IFMG):
