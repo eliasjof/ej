@@ -9,5 +9,7 @@ title: Conteúdo
 
 ## [[content/sistemas-digitais/sistemas-digitais|Sistemas Digitais]]
 
+## [[solutions| Soluções para diversas situações]]
+
 
 
