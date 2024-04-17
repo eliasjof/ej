@@ -58,3 +58,28 @@ Após a instalação do onedrive, realizar a instalação da interface gráfica:
 - https://github.com/bpozdena/OneDriveGUI/releases
 
 - Configura a lista de pastas
+
+### \- Error NVIDIA
+
+$ nvidia-smi
+Failed to initialize NVML: Driver/library version mismatch
+
+#### Solution
+
+Reinstall all drivers:
+
+- Remove old drivers
+  ```bash
+  sudo apt-get remove --purge nvidia-*
+   ```
+- Follow this steps: https://developer.nvidia.com/cuda-downloads
+- Install driver (choose the correct version, e.g. 550 for cuda 12.4):
+  ``` bash
+  sudo apt-get install nvidia-driver-550
+  ```
+- Reboot
+- Check
+```bash
+nvidia-smi
+```
+![[image-nvidia.png]]
