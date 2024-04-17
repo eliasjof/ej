@@ -1,6 +1,6 @@
 ---
-title: "Solutions for Ubuntu problems"
-date: "2022-10-17"
+title: Solutions for Ubuntu
+date: 2022-10-17
 ---
 
 ## Ubuntu 20.04

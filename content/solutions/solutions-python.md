@@ -1,3 +1,6 @@
+---
+title: Solutions for Python
+---
 # Python 3.8
 
 ## Error np.float
