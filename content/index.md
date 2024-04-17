@@ -1,6 +1,7 @@
 ---
 title: Welcome to EJ site
 draft: false
+share: true
 ---
 
 **MENU**
