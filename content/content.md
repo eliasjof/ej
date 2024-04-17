@@ -5,7 +5,7 @@ title: Conteúdo
 share: true
 ---
 
-## [[robotics|Robótica]]
+## [[./robotics/robotics|Robótica]]
 ## [[sinais-e-sistemas|Sinais e sistemas]]
 
 ## [[sistemas-digitais|Sistemas Digitais]]
