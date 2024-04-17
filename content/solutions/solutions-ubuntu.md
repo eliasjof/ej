@@ -59,10 +59,11 @@ Após a instalação do onedrive, realizar a instalação da interface gráfica:
 
 - Configura a lista de pastas
 
-### \- Error NVIDIA
+### \- Error in NVIDIA drivers
 
 $ nvidia-smi
-Failed to initialize NVML: Driver/library version mismatch
+
+Error: Failed to initialize NVML: Driver/library version mismatch
 
 #### Solution
 
