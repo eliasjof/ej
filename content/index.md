@@ -10,6 +10,6 @@ draft: false
 3) [[publicacoes|Publicações]]
 4) [[epiibots]]
 5) [[sobre]] 
-6) [[arquivos|arquivos para download]] 
+6) [[arquivos|arquivos e modelos para download]] 
 
 
