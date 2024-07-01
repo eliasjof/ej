@@ -10,7 +10,7 @@ share: true
 
 ## [[sistemas-digitais|Sistemas Digitais]]
 
-## [[./solutions/solutions| Soluções para diversas situações]]
+## [[solutions&tips| Soluções para diversas situações]]
 
 
 
