@@ -12,7 +12,7 @@ draft: false
 
 ![](image-kimberlly.png)
 
-- Leandro Henrique Vidigal Sousa. [Desenvolvimento de um veículo autônomo em escala reduzida](https://ej-ensino.com.br/wp-content/uploads/2023/09/TCC___IFMG_ITR_Trabalho___Desenvolvimento_de_um_robo_autonomo_de_Corrida.pdf). 2023. Trabalho de Conclusão de Curso. (Graduação em Engenharia Elétrica) - Instituto Federal Minas Gerais. Orientador: Elias José de Rezende Freitas.
+- Leandro Henrique Vidigal Sousa. [Desenvolvimento de um veículo autônomo em escala reduzida](files/TCC_Leandro_vidigal_2022_final.pdf). 2023. Trabalho de Conclusão de Curso. (Graduação em Engenharia Elétrica) - Instituto Federal Minas Gerais. Orientador: Elias José de Rezende Freitas.
 
 https://www.youtube.com/watch?v=bsLI31VnDQU
 
